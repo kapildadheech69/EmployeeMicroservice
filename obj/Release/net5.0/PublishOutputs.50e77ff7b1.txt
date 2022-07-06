@@ -1,0 +1,12 @@
+C:\Users\Hp\Desktop\CorporateClassifieds\Employee\EmployeeMicroservice\obj\Release\net5.0\PubTmp\Out\EmployeeMicroservice.exe
+C:\Users\Hp\Desktop\CorporateClassifieds\Employee\EmployeeMicroservice\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Hp\Desktop\CorporateClassifieds\Employee\EmployeeMicroservice\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Hp\Desktop\CorporateClassifieds\Employee\EmployeeMicroservice\obj\Release\net5.0\PubTmp\Out\EmployeeMicroservice.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Employee\EmployeeMicroservice\obj\Release\net5.0\PubTmp\Out\EmployeeMicroservice.deps.json
+C:\Users\Hp\Desktop\CorporateClassifieds\Employee\EmployeeMicroservice\obj\Release\net5.0\PubTmp\Out\EmployeeMicroservice.runtimeconfig.json
+C:\Users\Hp\Desktop\CorporateClassifieds\Employee\EmployeeMicroservice\obj\Release\net5.0\PubTmp\Out\EmployeeMicroservice.pdb
+C:\Users\Hp\Desktop\CorporateClassifieds\Employee\EmployeeMicroservice\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Employee\EmployeeMicroservice\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Employee\EmployeeMicroservice\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Employee\EmployeeMicroservice\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Employee\EmployeeMicroservice\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
